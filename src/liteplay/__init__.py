@@ -1,0 +1,1 @@
+"""LitePlay application package."""
